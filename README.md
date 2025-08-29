@@ -7,3 +7,4 @@ Topological Sculpting of 3D Fine-grained Tubular Shapes
 
 
 #### Visualization of TopoSculpt on Circle of Willis (CoW) Data
+![TopCow-1](assets/TopCow-1.gif)
