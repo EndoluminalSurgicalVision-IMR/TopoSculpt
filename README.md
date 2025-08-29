@@ -1,11 +1,11 @@
 # TopoSculpt
 Topological Sculpting of 3D Fine-grained Tubular Shapes
 
-#### Visualization of TopoSculpt on Airway Data
+## Visualization of TopoSculpt on Airway Data
 ![ATM-1](assets/ATM-1.gif)
 ![ATM-2](assets/ATM-2.gif)
 
 
-#### Visualization of TopoSculpt on Circle of Willis (CoW) Data
+## Visualization of TopoSculpt on Circle of Willis (CoW) Data
 ![TopCow-1](assets/TopCow-1.gif)
 ![TopCow-2](assets/TopCow-2.gif)
