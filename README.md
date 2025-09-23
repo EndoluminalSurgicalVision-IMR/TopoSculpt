@@ -13,11 +13,19 @@
 ![ATM-2](assets/ATM-2.gif)
 
 
-## Visualization of TopoSculpt on Circle of Willis (CoW) Data\
+## Visualization of TopoSculpt on Circle of Willis (CoW) Data
 #### Case 1
 ![TopCow-1](assets/TopCow-1.gif)
 #### Case 2
 ![TopCow-2](assets/TopCow-2.gif)
+
+
+## Visualization of TopoSculpt Process:
+#### Airway Case
+![ATM-1-Process](assets/ATM-1-Process.gif)
+#### TopCoW Case
+![ATM-1-Process](assets/TopCow-1-Process.gif)
+
 
 
 ## 📝 Citation
