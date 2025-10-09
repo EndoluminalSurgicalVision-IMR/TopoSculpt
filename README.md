@@ -23,7 +23,8 @@
 ## Visualization of TopoSculpt on computed tomography coronary angiography (CTCA) Data
 #### Case 1
 ![ASOCA-1](assets/ASOCA-1.gif)
-
+#### Case 2
+![ASOCA-2](assets/ASOCA-2.gif)
 
 
 ## Visualization of TopoSculpt Process:
