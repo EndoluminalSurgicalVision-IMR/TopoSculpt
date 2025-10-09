@@ -20,6 +20,12 @@
 ![TopCow-2](assets/TopCow-2.gif)
 
 
+## Visualization of TopoSculpt on computed tomography coronary angiography (CTCA) Data
+#### Case 1
+![ASOCA-1](assets/ASOCA-1.gif)
+
+
+
 ## Visualization of TopoSculpt Process:
 #### Airway Case
 ![ATM-1-Process](assets/ATM-1-Process.gif)
