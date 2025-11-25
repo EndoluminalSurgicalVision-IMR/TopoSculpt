@@ -36,9 +36,9 @@
 ![ATM-1-Process](assets/TopCow-1-Process.gif)
 
 ## Usage
-The class of TopoSculpt is provided in ```toposculpt.py```, and the core implementation of the Topology Integrity Betti is provided in ```TIB.py```
+The class of TopoSculpt is provided in ```toposculpt.py```. 
 
-
+The core implementation of the Topology Integrity Betti is provided in ```TIB.py```.
 
 ## 📝 Citation
 If you find this repository or our paper useful, please consider citing our paper:
