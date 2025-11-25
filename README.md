@@ -1,4 +1,7 @@
 # TopoSculpt
+<div align=center><img src="assets/Overview_Toposculpt.png"></div>
+
+
 [**_TopoSculpt: Betti-Steered Topological Sculpting of Three-Dimensional Tubular Shapes_**](https://arxiv.org/pdf/2509.03938)
 
 > By Minghui Zhang, Yaoyu Liu, Junyang Wu, Xin You, Hanxiao Zhang, Junjun He, Yun Gu, Xinglin Zhang
