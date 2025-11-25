@@ -1,10 +1,12 @@
 # TopoSculpt
-[**_TopoSculpt: Betti-Steered Topological Sculpting of 3D Fine-grained Tubular Shapes_**](https://arxiv.org/pdf/2509.03938)
+[**_TopoSculpt: Betti-Steered Topological Sculpting of Three-Dimensional Tubular Shapes_**](https://arxiv.org/pdf/2509.03938)
 
-> By Minghui Zhang, Yaoyu Liu, Junyang Wu, Xin You, Hanxiao Zhang, Junjun He, Yun Gu
+> By Minghui Zhang, Yaoyu Liu, Junyang Wu, Xin You, Hanxiao Zhang, Junjun He, Yun Gu, Xinglin Zhang
 >> Institute of Medical Robotics, Shanghai Jiao Tong University, Shanghai, China
 
 >> Shanghai AI Lab, Shanghai, China.
+
+
 
 ## Visualization of TopoSculpt on Airway Data
 #### Case 1
@@ -32,6 +34,9 @@
 ![ATM-1-Process](assets/ATM-1-Process.gif)
 #### TopCoW Case
 ![ATM-1-Process](assets/TopCow-1-Process.gif)
+
+## Usage
+The class of TopoSculpt is provided in ```toposculpt.py```, and the core implementation of the Topology Integrity Betti is provided in ```TIB.py```
 
 
 
